@@ -1,0 +1,14 @@
+C:\Users\US\Documents\VLSC\DSA_Session3\bin\Debug\net8.0\DSA_Session3.exe
+C:\Users\US\Documents\VLSC\DSA_Session3\bin\Debug\net8.0\DSA_Session3.deps.json
+C:\Users\US\Documents\VLSC\DSA_Session3\bin\Debug\net8.0\DSA_Session3.runtimeconfig.json
+C:\Users\US\Documents\VLSC\DSA_Session3\bin\Debug\net8.0\DSA_Session3.dll
+C:\Users\US\Documents\VLSC\DSA_Session3\bin\Debug\net8.0\DSA_Session3.pdb
+C:\Users\US\Documents\VLSC\DSA_Session3\obj\Debug\net8.0\DSA_Session3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\US\Documents\VLSC\DSA_Session3\obj\Debug\net8.0\DSA_Session3.AssemblyInfoInputs.cache
+C:\Users\US\Documents\VLSC\DSA_Session3\obj\Debug\net8.0\DSA_Session3.AssemblyInfo.cs
+C:\Users\US\Documents\VLSC\DSA_Session3\obj\Debug\net8.0\DSA_Session3.csproj.CoreCompileInputs.cache
+C:\Users\US\Documents\VLSC\DSA_Session3\obj\Debug\net8.0\DSA_Session3.dll
+C:\Users\US\Documents\VLSC\DSA_Session3\obj\Debug\net8.0\refint\DSA_Session3.dll
+C:\Users\US\Documents\VLSC\DSA_Session3\obj\Debug\net8.0\DSA_Session3.pdb
+C:\Users\US\Documents\VLSC\DSA_Session3\obj\Debug\net8.0\DSA_Session3.genruntimeconfig.cache
+C:\Users\US\Documents\VLSC\DSA_Session3\obj\Debug\net8.0\ref\DSA_Session3.dll
