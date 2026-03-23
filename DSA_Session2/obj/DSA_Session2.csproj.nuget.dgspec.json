@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\US\\Documents\\VLSC\\DSA_Session3\\DSA_Session3.csproj": {}
+    "C:\\Users\\US\\Documents\\VLSC\\DSA_Session2\\DSA_Session2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\US\\Documents\\VLSC\\DSA_Session3\\DSA_Session3.csproj": {
+    "C:\\Users\\US\\Documents\\VLSC\\DSA_Session2\\DSA_Session2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\US\\Documents\\VLSC\\DSA_Session3\\DSA_Session3.csproj",
-        "projectName": "DSA_Session3",
-        "projectPath": "C:\\Users\\US\\Documents\\VLSC\\DSA_Session3\\DSA_Session3.csproj",
+        "projectUniqueName": "C:\\Users\\US\\Documents\\VLSC\\DSA_Session2\\DSA_Session2.csproj",
+        "projectName": "DSA_Session2",
+        "projectPath": "C:\\Users\\US\\Documents\\VLSC\\DSA_Session2\\DSA_Session2.csproj",
         "packagesPath": "C:\\Users\\US\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\US\\Documents\\VLSC\\DSA_Session3\\obj\\",
+        "outputPath": "C:\\Users\\US\\Documents\\VLSC\\DSA_Session2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\US\\AppData\\Roaming\\NuGet\\NuGet.Config"
