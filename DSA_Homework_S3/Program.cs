@@ -51,3 +51,4 @@ class Program
         return BinarySearchRecursive(arr, mid + 1, right, x);
     }
 }
+
